@@ -1,0 +1,17 @@
+rodrigo:
+  first_name: "Rodrigo"
+  last_name: "Giust"
+  email: "mordeckai@gmail.com"
+  profile_name: "Mordeckai"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
+
+federico:
+  first_name: "Federico"
+  last_name: "Giust"
+  email: "djkbza@gmail.com"
+  profile_name: "djkbza"
